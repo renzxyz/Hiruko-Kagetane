@@ -1,6 +1,3 @@
-# Note
-Jasa Run Chat : [Fandyyy](https://wa.me/6285609233482)
-
 <p align="center">
 <img src="https://telegra.ph/file/076642d54e10122c6b084.jpg" alt="Hiruko Kagetane" width="500"/>
 
