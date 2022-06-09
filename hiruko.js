@@ -1030,16 +1030,16 @@ global.namaowner
   ryuu.send5ButImg(m.chat, donasi(), `© ${global.namaowner}`, imgdonasi, btndonasi)
   break
 
-  // CASE SEWA BOT
-  case 'sewabot':
-  let btnsewa = [{
+  // CASE HOSTING
+  case 'hosting':
+  let btnhosting = [{
   urlButton: {
   displayText: 'Owner 👨',
   url: `wa.me/${global.nomerowner}`
   }
   }]
-  imgsewa = await getBuffer(picak+'Sewa Bot')
-  ryuu.send5ButImg(m.chat, sewa(), `© ${global.namaowner}`, imgsewa, btnsewa)
+  imghosting = await getBuffer(picak+'HOSTING')
+  ryuu.send5ButImg(m.chat, hosting(), `© ${global.namaowner}`, imghosting, btnhosting)
   break
   
   // CASE OWNER MENU
