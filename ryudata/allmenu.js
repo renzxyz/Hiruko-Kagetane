@@ -4,7 +4,7 @@ const chalk = require('chalk')
 exports.allmenu = (quotes, prefix) => {
 	return`*🔖 Quotes :* ${quotes}
 
-*👦 OWNER MENU*
+*🗿 OWNER MENU*
 ⤿☃️ ${prefix}setmenu
 ⤿☃️ ${prefix}join [link]
 ⤿☃️ ${prefix}leave
@@ -16,7 +16,7 @@ exports.allmenu = (quotes, prefix) => {
 ⤿☃️ ${prefix}bc
 ⤿☃️ ${prefix}bcgc
 
-*👥 GROUP MENU*
+* GROUP MENU*
 ⤿☃️ ${prefix}antilink
 ⤿☃️ ${prefix}antiwame
 ⤿☃️ ${prefix}antivirtex
@@ -36,7 +36,7 @@ exports.allmenu = (quotes, prefix) => {
 ⤿☃️ ${prefix}promote @user
 ⤿☃️ ${prefix}demote @user
 
-*📥 DOWNLOAD MENU*
+* DOWNLOAD MENU*
 ⤿☃️ ${prefix}tiktok [url]
 ⤿☃️ ${prefix}tiktokwm [url]
 ⤿☃️ ${prefix}tiktoknowm [url]
@@ -50,7 +50,7 @@ exports.allmenu = (quotes, prefix) => {
 ⤿☃️ ${prefix}ytsearch [judul]
 ⤿☃️ ${prefix}gitclone
 
-*🔎 SEARCH MENU*
+* SEARCH MENU*
 ⤿☃️ ${prefix}pinterest [query]
 ⤿☃️ ${prefix}pantun
 ⤿☃️ ${prefix}google [query]
@@ -61,7 +61,7 @@ exports.allmenu = (quotes, prefix) => {
 ⤿☃️ ${prefix}cerpen
 ⤿☃️ ${prefix}cersex
 
-*🏔️ RPG MENU*
+* RPG MENU*
 ⤿☃️ ${prefix}profile
 ⤿☃️ ${prefix}joinrpg
 ⤿☃️ ${prefix}leaderboard
@@ -97,7 +97,7 @@ exports.allmenu = (quotes, prefix) => {
 ⤿☃️ ${prefix}listmsg
 ⤿☃️ ${prefix}delmsg
 
-*🎑 TELEGRAM STICKER*
+* TELEGRAM STICKER*
 ⤿☃️ ${prefix}awoawo
 ⤿☃️ ${prefix}benedict
 ⤿☃️ ${prefix}chat
@@ -120,20 +120,20 @@ exports.allmenu = (quotes, prefix) => {
 ⤿☃️ ${prefix}kawan_sponsbob
 ⤿☃️ ${prefix}tyni
 
-*ℹ️️ INFORMASI MENU*
+* INFORMASI MENU*
 ⤿☃️ ${prefix}infogempa
 ⤿☃️ ${prefix}covid
 ⤿☃️ ${prefix}faktaunik
 ⤿☃️ ${prefix}ssweb
 
-*✍️ NULIS MENU*
+* NULIS MENU*
 ⤿☃️ ${prefix}nulisbiasa
 ⤿☃️ ${prefix}nuliskanan
 ⤿☃️ ${prefix}nuliskiri
 ⤿☃️ ${prefix}foliokanan
 ⤿☃️ ${prefix}foliokiri
 
-*👯‍♀️ ASUPAN MENU*
+* ASUPAN MENU*
 ⤿☃️ ${prefix}hijaber
 ⤿☃️ ${prefix}cecan
 ⤿☃️ ${prefix}bocil
@@ -142,7 +142,7 @@ exports.allmenu = (quotes, prefix) => {
 ⤿☃️ ${prefix}rikagusriani
 ⤿☃️ ${prefix}santuy
 
-*👧 CECAN MENU*
+* CECAN MENU*
 ⤿☃️ ${prefix}china
 ⤿☃️ ${prefix}vietnam
 ⤿☃️ ${prefix}thailand
@@ -151,7 +151,7 @@ exports.allmenu = (quotes, prefix) => {
 ⤿☃️ ${prefix}japan
 ⤿☃️ ${prefix}malaysia
 
-*🎙️ VOICE CHANGER*
+* VOICE CHANGER*
 ⤿☃️ ${prefix}bass
 ⤿☃️ ${prefix}blown
 ⤿☃️ ${prefix}deep
@@ -164,7 +164,7 @@ exports.allmenu = (quotes, prefix) => {
 ⤿☃️ ${prefix}slow
 ⤿☃️ ${prefix}tupai
 
-*📸 EPHOTO MENU*
+* EPHOTO MENU*
 ⤿☃️ ${prefix}3dnature
 ⤿☃️ ${prefix}bevel
 ⤿☃️ ${prefix}burnpaper
@@ -176,7 +176,7 @@ exports.allmenu = (quotes, prefix) => {
 ⤿☃️ ${prefix}fur
 ⤿☃️ ${prefix}funnycup
 
-*🖼️ PHOTOOXY MENU*
+* PHOTOOXY MENU*
 ⤿☃️ ${prefix}3d-underwater  
 ⤿☃️ ${prefix}3dtext-pig  
 ⤿☃️ ${prefix}3dvalentine-cards  
@@ -185,7 +185,7 @@ exports.allmenu = (quotes, prefix) => {
 ⤿☃️ ${prefix}art-shader  
 ⤿☃️ ${prefix}angels-wings 
 
-*🎮 FUN MENU*
+* FUN MENU*
 ⤿☃️ ${prefix}truth
 ⤿☃️ ${prefix}dare
 ⤿☃️ ${prefix}bagaimanakah [teks]
@@ -197,7 +197,7 @@ exports.allmenu = (quotes, prefix) => {
 ⤿☃️ ${prefix}ttt
 ⤿☃️ ${prefix}delttt
 
-*🎰 GAME MENU*
+* GAME MENU*
 ⤿☃️ ${prefix}tebak lagu
 ⤿☃️ ${prefix}tebak gambar
 ⤿☃️ ${prefix}tebak kata
@@ -206,7 +206,7 @@ exports.allmenu = (quotes, prefix) => {
 ⤿☃️ ${prefix}tebak lontong
 ⤿☃️ ${prefix}kuismath
 
-*🎡 RANDOM MENU*
+* RANDOM MENU*
 ⤿☃️ ${prefix}darkjokes
 ⤿☃️ ${prefix}meme
 ⤿☃️ ${prefix}quotes
@@ -224,7 +224,7 @@ exports.allmenu = (quotes, prefix) => {
 ⤿☃️ ${prefix}wallbkackpink
 ⤿☃️ ${prefix}wallpaperanime
 
-*⛩️ ANIME MENU*
+* ANIME MENU*
 ⤿☃️ ${prefix}quotesanime
 ⤿☃️ ${prefix}wallpaper
 ⤿☃️ ${prefix}waifu
@@ -281,7 +281,7 @@ exports.allmenu = (quotes, prefix) => {
 ⤿☃️ ${prefix}yuri
 ⤿☃️ ${prefix}zettai
 
-*🎨 MAKER MENU*
+* MAKER MENU*
 ⤿☃️ ${prefix}toimage
 ⤿☃️ ${prefix}smeme
 ⤿☃️ ${prefix}smeme2
@@ -294,7 +294,7 @@ exports.allmenu = (quotes, prefix) => {
 ⤿☃️ ${prefix}ttp [teks]
 ⤿☃️ ${prefix}semoji [emoji]
 
-*👨‍🎨 TEXTPRO MENU*
+* TEXTPRO MENU*
 ⤿☃️ ${prefix}serti1 [teks]
 ⤿☃️ ${prefix}serti2 [teks]
 ⤿☃️ ${prefix}serti3 [teks]
@@ -311,7 +311,7 @@ exports.allmenu = (quotes, prefix) => {
 ⤿☃️ ${prefix}pornhub [teks|teks]
 ⤿☃️ ${prefix}tahta [teks]
 
-*☕ OTHER MENU*
+* OTHER MENU*
 ⤿☃️ ${prefix}simi [teks]
 ⤿☃️ ${prefix}ping
 ⤿☃️ ${prefix}owner
@@ -322,7 +322,7 @@ exports.allmenu = (quotes, prefix) => {
 ⤿☃️ ${prefix}tqto
 ⤿☃️ ${prefix}donasi
 ⤿☃️ ${prefix}rules
-⤿☃️ ${prefix}sewabot
+⤿☃️ ${prefix}hosting
 ⤿☃️ ${prefix}listgc
 ⤿☃️ ${prefix}liston
 ⤿☃️ ${prefix}liston
